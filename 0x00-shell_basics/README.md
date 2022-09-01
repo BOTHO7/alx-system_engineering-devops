@@ -9,3 +9,4 @@ Move the file betty from /tmp/ to /tmp/my_first_directory
 Delete the file betty
 Delete directory
 Script that changes the working directory to the previous one.
+Script that lists all files in directoy and parent and boot directory in their order
