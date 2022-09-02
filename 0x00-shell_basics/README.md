@@ -11,3 +11,4 @@ Delete directory
 Script that changes the working directory to the previous one.
 Script that lists all files in directoy and parent and boot directory in their order
 Script that prints the type of the file
+Create a symbolic link
