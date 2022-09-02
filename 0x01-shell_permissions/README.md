@@ -10,3 +10,4 @@ Grant user all permissions
 Set mode of file
 Reflection
 regular files not changed
+Permission with new directory
