@@ -9,3 +9,4 @@ Add execution permission to the owner, the group owner and the other users
 Grant user all permissions
 Set mode of file
 Reflection
+regular files not changed
