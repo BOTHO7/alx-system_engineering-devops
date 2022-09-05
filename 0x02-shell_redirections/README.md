@@ -4,4 +4,5 @@
 3. Display the content of /etc/passwd and /etc/hosts
 4. Display the last 10 lines
 5. Display the first 10 lines
-6. Write a script that displays the third line of the file 
+6. Write a script that displays the third line of the file
+7. Write a shell script that creates a file containing the text ending by a new line
