@@ -6,3 +6,4 @@
 5. Display the first 10 lines
 6. Write a script that displays the third line of the file
 7. Write a shell script that creates a file containing the text ending by a new line
+8. Write a script that writes into the file
